@@ -5,10 +5,8 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF97CF&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Karyne+Gomes!;Futura+engenheira,+arquiteta+e+perita+criminal;HTML+%7C+CSS+%7C+Handlebars;Node.js+no+Back-End;Sempre+buscando+aprender+mais" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF97CF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+me+chamo+Karyne+Gomes!;Futura+engenheira%2C+arquiteta+e+perita+criminal;HTML+%7C+CSS+%7C+Handlebars;Node.js+no+Back-End;Sempre+buscando+aprender+mais" />
 </p>
-
-
 
 
 ---
