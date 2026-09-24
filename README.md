@@ -1,6 +1,5 @@
 <h1 align="center"> Olá, Me chamo Karyne Gomes </h1> 
 <p align="center"> Focado no estudo de programação e desenvolvimento web </p>
-<p align="center">Esta é uma conta nova então começará a ser postado com mais frequência</p>
 <br>
 <br>
 
@@ -18,7 +17,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Pretendo relembrar e praticar Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -45,7 +44,7 @@
   
   - Estudante de Desenvolvimento de Sistemas (DS)<br>
   - Pretendo trabalhar como <strong>Engenheira</strong> , <strong>Arquiteta</strong> e <strong>Perita Criminal</strong><br>
-  - Gosto de programação, desenvolvimento web e Mysql<br>
-  - Amante da matemática, sempre querendo aprender algo novo a matéria<br>
-  - Fã de Pokémon e cultura geek<br>
+  - Gosto de praticar hipismo, vôlei, dançar, cantar, escutar música e ler<br>
+  - Amante da astrologia, astronomia, biologia e da arte<br>
+  - Idiomas que eu sei: Português brasileiro e de Portugal, Inglês, Espanhol, Francês, Russo e Latim
 </p>
